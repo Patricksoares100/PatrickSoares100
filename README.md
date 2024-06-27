@@ -8,6 +8,35 @@
 - 📫 How to reach me: soarespatrick91@gmail.com
 - ⚡ Fun fact: I have a degree in another specialty, and I decided to change. Do you know what it was?
 
+###  👨‍💻  Programming Languages Learned
+
+<p align="center">
+  FRONT-END:
+</p>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+</p>
+
+<p align="center">
+  BACK-END:
+</p>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yii_original_wordmark_logo_icon_146286.png" alt="JS" height="50" width="50" /> 
+</p>
+
+
+<p align="center">
+  QA:
+</p>
+<p align='center'>
+<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="C language" height="50" width="50" />
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="C++ language" height="50" width="50" /> 
+</p>
+
 ## GitHub Statistics
 
 <div align="center">
